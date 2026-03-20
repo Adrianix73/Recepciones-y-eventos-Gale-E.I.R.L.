@@ -21,3 +21,14 @@ body{
     background-color: var(--bg); /*Color de fondo*/
     color: var(--text); /*color del texto*/
 }
+
+.topbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /*Se paración de esquina a esquina*/
+    padding: 0 20px;
+}
+
+.sidebar{
+
+}
