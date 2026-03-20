@@ -14,6 +14,7 @@
     --sidebar-icons: 64px; /* solo se muestra en la tablet el icono*/
     --sidebar-bg: #FFFFFF; /*Color del fondo del sidebar*/
     --muted: #999; /*Texto secundario*/
+    --sidebar-line: #919191 /*Color para bordes*/
 }
 
 body{
@@ -27,6 +28,33 @@ body{
     align-items: center;
     justify-content: space-between; /*Se paración de esquina a esquina*/
     padding: 0 20px;
+    height: 56px;
+    background-color: var(--sidebar-bg);
+    border-bottom: 1px solid var(--sidebar-line);
+    position: fixed; /* que queda fijo en un lugar*/
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 200;
+}
+
+.topbar .title-business{
+    font-size: 1rem; /*16px*/
+    font-weight: 600;
+    color: var(--text);
+}
+
+.hamburguer{
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 1.2rem; /*19.2px*/
+}
+
+.overlay{
+    display: none;
+    position: fixed;
+    inset: 0;
 }
 
 .sidebar{
