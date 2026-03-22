@@ -84,5 +84,6 @@ es estable ("muy bueno, casi nunca se cae"), lo que garantiza la viabilidad de u
 
 <img width="1133" height="751" alt="MR restobar" src="https://github.com/user-attachments/assets/f3e33b91-9efb-4f2e-a021-dd39a13221a9" />
 
-
+## DIAGRAMA DE FIGMA
+https://www.figma.com/design/VaGY5zk4hwqLfsuftBrOuK/Untitled?node-id=0-1&t=f5fw57nCb4pSx9Py-1
 
