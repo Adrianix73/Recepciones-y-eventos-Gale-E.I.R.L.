@@ -48,7 +48,7 @@ decisiones informadas y genera pérdidas económicas constantes.
 
 Desarrollar un __Sistema Web de Gestión de Ventas y Reportes__ que permita:
 
-1. Registrar digitalmente cada venta (productos, cantidades, precios, método de pago, mesa, mozo responsable).
+1. Registrar digitalmente cada venta (productos, cantidades, precios, método de pago, mozo responsable).
 2. Generar reportes automáticos de ventas por día, semana y mes.
 3. Gestionar el catálogo de productos (platos y bebidas) con precios y disponibilidad.
 4. Controlar la caja diaria con resumen de ingresos por método de pago.
