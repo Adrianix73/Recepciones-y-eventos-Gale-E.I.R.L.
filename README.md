@@ -78,11 +78,11 @@ es estable ("muy bueno, casi nunca se cae"), lo que garantiza la viabilidad de u
 
 ## Diagrama Entidad-Relación (DER)
 
-<img width="1358" height="750" alt="DER rango" src="https://github.com/user-attachments/assets/2f8af547-ae60-4b75-b2cf-d3b765854606" />
+<img width="1352" height="747" alt="DER rango" src="https://github.com/user-attachments/assets/ec227a35-2f93-463b-805c-51cdaab8bfd1" />
 
 ## Modelo Relacional (MR)
 
-<img width="1034" height="724" alt="MR rango" src="https://github.com/user-attachments/assets/375b86b1-05df-43e9-8b56-dbd83250ed8d" />
+<img width="1089" height="722" alt="MR rango" src="https://github.com/user-attachments/assets/94c049aa-ee63-4884-a031-ccbf5e0157c9" />
 
 ## DIAGRAMA DE FIGMA
 https://www.figma.com/design/VaGY5zk4hwqLfsuftBrOuK/Untitled?node-id=0-1&t=f5fw57nCb4pSx9Py-1
